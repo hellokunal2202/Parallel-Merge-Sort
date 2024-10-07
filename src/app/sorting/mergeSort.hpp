@@ -1,6 +1,6 @@
 #ifdef MERGESORT_H
 #define MERGESORT_H
-
+#include <iostream>
 #include <vector>
 class MergeSort {
     private:
